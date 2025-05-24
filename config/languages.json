@@ -1,0 +1,54 @@
+{
+  "languages": [
+    {
+      "code": "eng",
+      "name": "English",
+      "script": "Latin"
+    },
+    {
+      "code": "ben",
+      "name": "Bengali",
+      "script": "Bengali"
+    },
+    {
+      "code": "hin",
+      "name": "Hindi",
+      "script": "Devanagari"
+    },
+    {
+      "code": "mar",
+      "name": "Marathi",
+      "script": "Devanagari"
+    },
+    {
+      "code": "guj",
+      "name": "Gujarati",
+      "script": "Gujarati"
+    },
+    {
+      "code": "kan",
+      "name": "Kannada",
+      "script": "Kannada"
+    },
+    {
+      "code": "mal",
+      "name": "Malayalam",
+      "script": "Malayalam"
+    },
+    {
+      "code": "ori",
+      "name": "Odia",
+      "script": "Odia"
+    },
+    {
+      "code": "tam",
+      "name": "Tamil",
+      "script": "Tamil"
+    },
+    {
+      "code": "tel",
+      "name": "Telugu",
+      "script": "Telugu"
+    }
+  ]
+} 

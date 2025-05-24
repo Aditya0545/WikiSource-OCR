@@ -1,0 +1,14 @@
+flask==2.3.3
+flask-cors==4.0.0
+pytesseract==0.3.10
+Pillow==10.0.0
+requests==2.31.0
+wikitools==1.1.0
+python-dotenv==1.0.0
+numpy==1.24.3
+opencv-python==4.8.0.76
+pdf2image==1.16.3
+PyPDF2==3.0.1
+pytest==7.4.0
+black==23.7.0
+flake8==6.1.0 
