@@ -2,6 +2,19 @@
 
 A modern, open-source web application for performing Optical Character Recognition (OCR) on PDF/DjVu files and preparing them for upload to Wikisource.
 
+## Snapshots
+
+Below is a snapshot of the Wikisource OCR user interface:
+
+![Wikisource OCR UI](public/snaps/s1.png)
+![Wikisource OCR UI](public/snaps/s2.png)
+![Wikisource OCR UI](public/snaps/s3.png)
+![Wikisource OCR UI](public/snaps/s4.png)
+![Wikisource OCR UI](public/snaps/s5.png)
+![Wikisource OCR UI](public/snaps/s6.png)
+
+
+
 ## Features
 
 - Drag-and-drop interface for file uploads
